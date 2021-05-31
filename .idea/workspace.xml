@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0434c3f7-59cd-4796-a38b-f0d0cdec8258" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/api/controllers/account.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/controllers/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/controllers/category.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/controllers/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/controllers/ticket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/controllers/transaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/controllers/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/helpers/pagination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/helpers/random_code_generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/middlewares/passport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/middlewares/validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/account.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/category.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/plan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/ticket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/transaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/models/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/routes/account.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/routes/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/routes/category.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/routes/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/routes/transaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/routes/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/category.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/contact_utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/plan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/ticket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/transaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/schemas/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/services/currencylayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/services/paystack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/services/push_service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/services/redis-manager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/services/sms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/validations/account.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/validations/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/validations/category.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/validations/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/validations/transaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/validations/type.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o1tjpWdhVtjkcMBjkYIqEPu1O2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/api/schemas" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/api/models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0434c3f7-59cd-4796-a38b-f0d0cdec8258" name="Default Changelist" comment="" />
+      <created>1612466061276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612466061276</updated>
+      <workItem from="1612466062794" duration="3278000" />
+      <workItem from="1612638321322" duration="160000" />
+      <workItem from="1612638493580" duration="38000" />
+      <workItem from="1612638538643" duration="149000" />
+      <workItem from="1612638698439" duration="3071000" />
+      <workItem from="1613818081578" duration="18228000" />
+      <workItem from="1614196861673" duration="586000" />
+      <workItem from="1614258392728" duration="345000" />
+      <workItem from="1614353739007" duration="534000" />
+      <workItem from="1614509612411" duration="1499000" />
+      <workItem from="1614770538017" duration="303000" />
+      <workItem from="1614778365620" duration="3006000" />
+      <workItem from="1614842092723" duration="3678000" />
+      <workItem from="1614886732665" duration="2223000" />
+      <workItem from="1615053582933" duration="1189000" />
+      <workItem from="1615062166311" duration="6370000" />
+      <workItem from="1615140577773" duration="1122000" />
+      <workItem from="1615182943139" duration="25000" />
+      <workItem from="1615484223655" duration="1013000" />
+      <workItem from="1615806296344" duration="8772000" />
+      <workItem from="1615826639057" duration="6696000" />
+      <workItem from="1616137550998" duration="715000" />
+      <workItem from="1616339969444" duration="5235000" />
+      <workItem from="1616489648981" duration="575000" />
+      <workItem from="1616565925257" duration="557000" />
+      <workItem from="1616584235164" duration="2630000" />
+      <workItem from="1616916140467" duration="530000" />
+      <workItem from="1617252520507" duration="25000" />
+      <workItem from="1618901420773" duration="8420000" />
+      <workItem from="1619098246834" duration="3781000" />
+      <workItem from="1620117823702" duration="961000" />
+      <workItem from="1620625190317" duration="152000" />
+      <workItem from="1620625371208" duration="1109000" />
+      <workItem from="1620934133325" duration="3849000" />
+      <workItem from="1621430162950" duration="7966000" />
+      <workItem from="1621519955722" duration="46000" />
+      <workItem from="1621610358047" duration="1941000" />
+      <workItem from="1621621106120" duration="2476000" />
+      <workItem from="1621673578896" duration="38242000" />
+      <workItem from="1622410250017" duration="4117000" />
+      <workItem from="1622494538711" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="701" y="443" key="#ESLint" timestamp="1612471275799">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="701" y="443" key="#ESLint/0.0.1680.1050@0.0.1680.1050" timestamp="1612471275799" />
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612466105014">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1612466105014" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1615822619655">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1613912436714" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1615819573723" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1615822619655" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1615822619646">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1613912436706" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1615819573721" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1615822619646" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1615822619629">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1613912436697" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1615819573720" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1615822619629" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1615822619650">
+      <screen x="0" y="25" width="1680" height="966" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1613912436708" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1615819573722" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1615822619650" />
+    <state x="349" y="143" key="SettingsEditor" timestamp="1620625343223">
+      <screen x="0" y="25" width="1680" height="965" />
+    </state>
+    <state x="349" y="143" key="SettingsEditor/0.25.1680.965@0.25.1680.965" timestamp="1620625343223" />
+    <state x="1696" y="41" width="1830" height="965" key="dock-window-1" timestamp="1618903932501">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1680" y="0" width="1920" height="1080" key="dock-window-1/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1618902253738" />
+    <state x="1696" y="41" width="1830" height="965" key="dock-window-1/1680.25.1920.1055/0.0.1680.993@0.0.1680.993" timestamp="1618903932501" />
+    <state x="1696" y="85" width="1830" height="965" key="dock-window-1/1680.25.1920.1055/0.25.1680.968@0.25.1680.968" timestamp="1618901852942" />
+    <state x="2024" y="159" key="new project wizard" timestamp="1614509795487">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2024" y="159" key="new project wizard/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1614509795487" />
+  </component>
+</project>

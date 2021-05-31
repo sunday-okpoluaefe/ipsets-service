@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+dist
+.env.example
+.env.production
+*.log
+.dockerignore
+migrations
+.migrate-from-mysql.js
