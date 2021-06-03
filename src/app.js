@@ -7,7 +7,7 @@ const { load_ip_sets_from_server } = require('./api/helpers/ip_set');
 const app = express();
 const http = require('http').createServer(app);
 
-const port = process.env.PORT || 2020;
+const port = process.env.PORT || 3030;
 // const cors = require('cors');
 const config = require('config');
 
@@ -54,10 +54,11 @@ http.listen(port, () => {
       });
   });
 
-  load_ip_sets_from_server(false)
+  load_ip_sets_from_server()
     .then(r => {
+      console.log('File Downloaded...');
     });
-  console.log('Server running on Port : 2020');
+  console.log('Server running on Port : 3030');
 
 });
 
