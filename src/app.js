@@ -1,14 +1,12 @@
 
 require('dotenv').config();
+
 const express = require('express');
 const cron = require('node-cron');
 const { load_ip_sets_from_server } = require('./api/helpers/ip_set');
-
 const app = express();
 const http = require('http').createServer(app);
-
 const port = process.env.PORT || 3030;
-// const cors = require('cors');
 const config = require('config');
 
 const middlewares = require('./api/providers/middlewares');
