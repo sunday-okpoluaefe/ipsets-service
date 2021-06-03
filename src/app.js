@@ -13,6 +13,7 @@ const middlewares = require('./api/providers/middlewares');
 
 // attach respond helper
 app.use(middlewares.respond);
+
 const router = require('./api/router');
 
 //= =================================================
