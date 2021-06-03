@@ -11,53 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0434c3f7-59cd-4796-a38b-f0d0cdec8258" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/api/controllers/account.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/controllers/admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/controllers/category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/controllers/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/controllers/ticket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/controllers/transaction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/controllers/type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/helpers/pagination.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/helpers/random_code_generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/middlewares/passport.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/middlewares/validation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/account.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/plan.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/ticket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/transaction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/models/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/helpers/currency-exchange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/helpers/parse-link-token.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/routes/account.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/routes/admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/routes/category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/routes/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/routes/transaction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/routes/type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/contact_utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/plan.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/ticket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/transaction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/schemas/type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/services/currencylayer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/services/paystack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/services/push_service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/services/redis-manager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/services/sms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/validations/account.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/validations/admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/validations/category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/validations/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/validations/transaction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/validations/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +60,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -172,7 +133,7 @@
       <workItem from="1621621106120" duration="2476000" />
       <workItem from="1621673578896" duration="38242000" />
       <workItem from="1622410250017" duration="4117000" />
-      <workItem from="1622494538711" duration="317000" />
+      <workItem from="1622494538711" duration="18038000" />
     </task>
     <servers />
   </component>

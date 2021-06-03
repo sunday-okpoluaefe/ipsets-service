@@ -1,5 +1,8 @@
+
 require('dotenv').config();
 const express = require('express');
+const cron = require('node-cron');
+const { load_ip_sets_from_server } = require('./api/helpers/ip_set');
 
 const app = express();
 const http = require('http').createServer(app);
@@ -27,11 +30,9 @@ app.use((req, res, next) => {
   res.header('Access-Control-Allow-Credentials', true);
   res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH');
   res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Authorization, Content-Type, Accept, X-Auth-Token');
-
   next();
 });
 
-require('./config/database')(); // Connect to DB
 
 app.set('trust proxy', true);
 
@@ -43,7 +44,21 @@ app.use(middlewares.error.catch); // attach error middleware to catch internal s
 app.use(middlewares.error.notFound); // attach error middleware to catch 404 errors
 
 http.listen(port, () => {
-  console.log(`App started. listening at port: ${port}`);
+  /*
+   * configure cronjob to update ipsets at 12AM Midnight
+   */
+  cron.schedule('0 0 0 * * *', () => {
+    load_ip_sets_from_server()
+      .then(r => {
+        console.log('File Downloaded')
+      });
+  });
+
+  load_ip_sets_from_server(false)
+    .then(r => {
+    });
+  console.log('Server running on Port : 2020');
+
 });
 
 module.exports = app;
