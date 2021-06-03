@@ -45,3 +45,5 @@ GET: https://ipset.daisbox.com/v1/ip/match?ip=92.53.96.22
 }
 ```
 
+Find an updated list of block IPs here https://github.com/firehol/blocklist-ipsets
+
